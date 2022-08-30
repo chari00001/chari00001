@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate with other Developers<br>🌱 I’m currently learning Vue.js<br>💬 Ask me anything, if i have a knowledge i can help.<br>⚡ Fun fact: Only 5% of the universe is actually visible.
+🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate with other Developers<br>🌱 I’m currently learning Express.js<br>💬 Ask me anything, if i have a knowledge i can help.<br>⚡ Fun fact: Only 5% of the universe is actually visible.
 
 
 ## 🌐 Socials:
