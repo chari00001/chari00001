@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on Backend development<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning Node.js and all other js stuff<br>💬 Ask me about anything related 
 
 
