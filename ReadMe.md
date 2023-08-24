@@ -1,4 +1,4 @@
-![Alt Text]([https://i.gifer.com/fxa6.gif](https://media.giphy.com/media/p4w0AMZJa2EtG/giphy.gif))
+![Alt Text](https://giphy.com/gifs/crying-berserk-p4w0AMZJa2EtG)
 
 # About Me:
 Software Developer<br>C.eng grinder<br>Former photographer<br>Heavy lifter
