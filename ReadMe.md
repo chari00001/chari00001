@@ -1,4 +1,4 @@
-![Alt Text](https://giphy.com/gifs/crying-berserk-p4w0AMZJa2EtG)
+![Alt Text](https://github.com/chari00001/berserk/blob/main/giphy.gif)
 
 # About Me:
 Software Developer<br>C.eng grinder<br>Former photographer<br>Heavy lifter
