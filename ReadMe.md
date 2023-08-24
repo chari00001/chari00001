@@ -1,3 +1,5 @@
+![Alt Text](https://i.gifer.com/fxa6.gif)
+
 # About Me:
 Software Developer<br>C.eng grinder<br>Former photographer<br>Heavy lifter
 
